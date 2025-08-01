@@ -1,9 +1,6 @@
 ### Hi there 👋
 ### I'm Rene
 
-- 🔭 I’m currently working on a serverless CV generator, a technology radar, my smart home automation.
-- 🌱 I’m currently learning for an Azure certificate, Alexa Smart Home skill development
-<!--
 **JRSuckert/JRSuckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
